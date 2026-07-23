@@ -1,6 +1,6 @@
 # 🎬 Ultimate Hybrid Recommendation Engine
 
-> 👉 **[Tıkla: Projeyi nbviewer'da Aç](https://nbviewer.org/github/sametcsk/Hybrid-Ensemble-Recommendation-Engine/blob/main/recommend.ipynb)
+> 👉 **[Tıkla: Projeyi nbviewer'da Aç](https://nbviewer.org/github/sametcsk/Hybrid-Ensemble-Recommendation-Engine/blob/main/hybrid-recommender-system.ipynb)**
 
 ---
 
@@ -42,4 +42,4 @@ Proje 4 ana stratejik katmandan oluşur:
 1. Repoyu klonlayın:
    ```bash
 
-   git clone [https://github.com/sametcsk/Hybrid-Ensemble-Recommendation-Engine.git](https://github.com/sametcsk/Hybrid-Ensemble-Recommendation-Engine.git)
+   git clone https://github.com/sametcsk/Hybrid-Ensemble-Recommendation-Engine.git
